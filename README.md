@@ -1,5 +1,7 @@
 # CodeX-Returns Game Hub v1.0
 
+# Go to the Releases Tab to install the latest version of CodeX
+
 ## Overview
 
 CodeX-Returns is a premium terminal-based game launcher that streams games directly from GitHub repositories. It provides a secure, password-protected interface for launching and managing multiple games with a professional UI.
