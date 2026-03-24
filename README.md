@@ -96,12 +96,6 @@ From the main menu, select option `9` to exit the application.
 
 ## Configuration
 
-### Default Password
-
-The default password is: `CodeX`
-
-To change the password, edit the following line in `CodeX-Returns.py`:
-
 ### GitHub Username
 
 The default GitHub username is: `CodeX-Returns`
@@ -176,11 +170,6 @@ Each game runs on a different port to allow multiple instances:
 - Reinstall dependencies: `pip install --upgrade colorama requests pyperclip`
 
 ### Runtime Issues
-
-**Login Loop**
-- Verify password is exactly `CodeX`
-- Check Caps Lock is off
-- You have 3 attempts maximum
 
 **URL Not Copying to Clipboard**
 - Pyperclip requires system clipboard access
