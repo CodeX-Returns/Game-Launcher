@@ -66,13 +66,6 @@ python CodeX-Returns.py
 ```bash
 python CodeX-Returns.py
 ```
-
-### Login
-
-1. The application will display a login screen
-2. Enter the password: `CodeX`
-3. You have 3 attempts before access is denied
-
 ### Selecting a Game
 
 1. After login, the main menu will display all available games
@@ -108,10 +101,6 @@ From the main menu, select option `9` to exit the application.
 The default password is: `CodeX`
 
 To change the password, edit the following line in `CodeX-Returns.py`:
-
-```python
-PASSWORD = "CodeX"  # Change this to your desired password
-```
 
 ### GitHub Username
 
