@@ -1,6 +1,6 @@
 # CodeX-Returns Game Hub v1.0
 
-# Go to the [Releases] (https://github.com/CodeX-Returns/Game-Launcher/releases/tag/CodeX) Tab to install the latest version of CodeX
+# Go to the [Releases](https://github.com/CodeX-Returns/Game-Launcher/releases/tag/CodeX) Tab to install the latest version of CodeX
 
 ## Overview
 
